@@ -1,4 +1,4 @@
-# Projet LO21
+# Projet système d'expert
 > A faire seul ou par groupe de deux étudiants (pas plus)
 
 Un système expert est composé d'une base de connaissances, une base de faits et un moteur d'inférence.
@@ -56,3 +56,5 @@ Le rapport devra contenir les éléments suivants :
 - La qualité d'implémentation est prise en compte.
 
 **Rapport à rendre et démonstration à réaliser sur ordinateur devant l'enseignant.**
+
+DEVELOPPEUR PAUL-HARRY
